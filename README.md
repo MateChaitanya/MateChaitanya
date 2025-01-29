@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matechaitanya" alt="matechaitanya" /></a> </p>
 
-- 🌱 I am currently engaged in enhancing my proficiency in Android development [https://github.com/MateChaitanya/ANDROID-TUTORIALS](https://github.com/MateChaitanya/ANDROID-TUTORIALS)
+- 🌱 I am currently engaged in enhancing my proficiency in Java development.
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 
