@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Mate Chaitanya</h1>
-<h3 align="center">A passionate Java Developer</h3>
+<h3 align="center">A passionate Java Full Stack Developer & Android Developer</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matechaitanya" alt="matechaitanya" /></a> </p>
