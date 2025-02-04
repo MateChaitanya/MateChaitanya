@@ -4,7 +4,12 @@
 <h3 align="center">A passionate Java Full Stack Developer & Android Developer</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matechaitanya" alt="matechaitanya" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=matechaitanya&theme=onedark" alt="matechaitanya" />
+  </a>
+</p>
+
 
 - 🌱 I am currently engaged in enhancing my proficiency in Java development.
 
